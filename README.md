@@ -23,3 +23,11 @@ The experiment logs and results will be dumped in,
 ./logs/[name_of_dataset]/[name_of_exp]
 ```
 # Citing 
+@misc{sharma2024electioneering,
+      title={Electioneering the Network: Dynamic Multi-Step Adversarial Attacks for Community Canvassing}, 
+      author={Saurabh Sharma and Ambuj SIngh},
+      year={2024},
+      eprint={2403.12399},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
